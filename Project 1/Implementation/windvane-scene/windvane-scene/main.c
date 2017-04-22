@@ -5,7 +5,7 @@
     Fabio Alves Martins Pereira     7987435
     Mateus Abrahao Cardoso          8658332
     Gabriel Zovaro Nacimento
- */
+*/
 
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
