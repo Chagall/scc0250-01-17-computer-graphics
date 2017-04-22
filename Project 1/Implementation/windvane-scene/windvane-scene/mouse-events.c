@@ -4,7 +4,6 @@
     Alunos:
     Fabio Alves Martins Pereira     7987435
     Mateus Abrahao Cardoso          8658332
-    Gabriel Zovaro Nacimento
 */
 
 #include <OpenGL/glu.h>
@@ -12,7 +11,7 @@
 #include "mouse-events.h"
 #include "scene-drawing.h"
 
-// Angulo de rotacao da Helice do Catavento
+// Angulo de rotacao da Helice do Catavento (Inicialmente 0 graus)
 GLfloat ROTATE_ANGLE = 0.0f;
 
 /*

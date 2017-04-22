@@ -4,7 +4,6 @@
     Alunos:
     Fabio Alves Martins Pereira     7987435
     Mateus Abrahao Cardoso          8658332
-    Gabriel Zovaro Nacimento
 */
 
 #ifndef scene_drawing_h

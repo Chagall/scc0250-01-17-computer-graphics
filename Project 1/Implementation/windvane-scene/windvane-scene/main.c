@@ -4,7 +4,6 @@
     Alunos:
     Fabio Alves Martins Pereira     7987435
     Mateus Abrahao Cardoso          8658332
-    Gabriel Zovaro Nacimento
 */
 
 #include <OpenGL/gl.h>
@@ -13,10 +12,6 @@
 #include "mouse-events.h"
 #include "scene-drawing.h"
 
-// --- Prototipos das funcoes utilizadas pelo programa ---
-
-
-// ---------------------- Main -----------------------
 int main(int argc, char * argv[]) {
     
     const char* windowTitle = "Cena Catavento";
